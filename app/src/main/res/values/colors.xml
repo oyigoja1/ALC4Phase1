@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3137fd</color>
+    <color name="colorPrimaryDark">#3137fd</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBackground">#ffae42</color>
+    <color name="wlcColor">#000000</color>
+    <color name="backGround">#eeeeee</color>
+
+</resources>

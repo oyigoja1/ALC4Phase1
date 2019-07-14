@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about">About ALC</string>
+    <string name="profile">My Profile</string>
+    <string name="wlc">Welcome to ALC 4.0</string>
+    <string name="my_name">Ogar Doris</string>
+    <string name="my_track">Track:  Android</string>
+    <string name="my_country">Country:  Nigeria</string>
+    <string name="my_email">Email:      dorisogar76@gmail.com</string>
+    <string name="my_number">Number:    +2348039404901</string>
+    <string name="my_slack">Slack Username:     @Ogar Doris</string>
+
+
+
+
+
+
+</resources>
